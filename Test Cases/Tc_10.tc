@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check radio buttons</description>
+   <name>Tc_10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a11b7ea-e06f-40a8-bcf2-e4ee23939a31</testCaseGuid>
+</TestCaseEntity>

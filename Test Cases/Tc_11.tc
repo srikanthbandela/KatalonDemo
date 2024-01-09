@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify radio buttons with Hongkong cura healthcare center</description>
+   <name>Tc_11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1038955-4e38-45ed-b587-be262f2cd0f8</testCaseGuid>
+</TestCaseEntity>

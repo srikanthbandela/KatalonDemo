@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the apply for hospital readmission check button and facility dropdown</description>
+   <name>Tc_7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e462e6c9-7210-4338-a697-90867019e3b5</testCaseGuid>
+</TestCaseEntity>

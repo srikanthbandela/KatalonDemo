@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify book Appointent</description>
+   <name>Tc_38</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7461fe0-e9a9-4675-a6aa-64b17f515992</testCaseGuid>
+</TestCaseEntity>

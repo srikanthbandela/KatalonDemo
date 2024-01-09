@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify comment with out any funtionalities</description>
+   <name>Tc_19</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d916faa3-cc9a-4592-b6e1-00f2ea778787</testCaseGuid>
+</TestCaseEntity>

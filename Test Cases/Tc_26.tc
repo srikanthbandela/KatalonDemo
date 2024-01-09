@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>validate menu funtions</description>
+   <name>Tc_26</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef1b716c-3904-4d75-a904-2609b76e8fd8</testCaseGuid>
+</TestCaseEntity>

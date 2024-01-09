@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Functionality of menu button</description>
+   <name>Tc_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3efcc2c-e1bc-4021-92eb-ad8bff6c461b</testCaseGuid>
+</TestCaseEntity>

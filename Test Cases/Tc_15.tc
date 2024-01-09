@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify date with all fucntionalities</description>
+   <name>Tc_15</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d19a499-89da-466d-a9bd-93a327852f5c</testCaseGuid>
+</TestCaseEntity>

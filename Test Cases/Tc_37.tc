@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify book Appointment button</description>
+   <name>Tc_37</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f446ca9-d920-4690-82c6-63af34096fe1</testCaseGuid>
+</TestCaseEntity>

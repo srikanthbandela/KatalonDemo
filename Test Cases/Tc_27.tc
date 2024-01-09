@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>validate menu icon</description>
+   <name>Tc_27</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e48b2ce-3bff-47a9-8663-9ae91398b2f8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify facility dropdown</description>
+   <name>Tc_5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e59f2731-136e-49f8-b177-cfa1f3b1a47f</testCaseGuid>
+</TestCaseEntity>

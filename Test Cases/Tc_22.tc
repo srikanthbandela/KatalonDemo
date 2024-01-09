@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify comment box</description>
+   <name>Tc_22</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6074749-19b8-48d9-804b-bd27d952edce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify menu button</description>
+   <name>Tc_25</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa2c17d6-7bbc-46e0-add5-626de4860df4</testCaseGuid>
+</TestCaseEntity>
